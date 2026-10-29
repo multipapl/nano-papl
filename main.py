@@ -6,7 +6,7 @@ import ctypes
 # Fix for taskbar icon on Windows - Set strictly before any UI imports/init
 if os.name == 'nt':
     try:
-        myappid = 'nano_papl.v2.0'
+        myappid = 'nano-papl.v2.0'
         ctypes.windll.shell32.SetCurrentProcessExplicitAppUserModelID(myappid)
     except Exception:
         pass

@@ -1,5 +1,5 @@
 """
-Run tests for Nano Papl.
+Run tests for nano-papl.
 Cleans up coverage files after execution.
 """
 import pytest
@@ -14,7 +14,7 @@ def main():
     sys.path.insert(0, project_root)
     os.chdir(project_root)
     
-    print("Запуск тестів Nano_Papl...")
+    print("Запуск тестів nano-papl...")
     retcode = pytest.main(["-v", "tests/"])
     
     # Cleanup .coverage file

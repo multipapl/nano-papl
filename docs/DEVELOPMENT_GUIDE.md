@@ -1,6 +1,6 @@
-# 🛠️ Nano Papl Development Guide
+# 🛠️ nano-papl Development Guide
 
-This guide defines the standards and procedures for extending and maintaining Nano Papl.
+This guide defines the standards and procedures for extending and maintaining nano-papl.
 
 ---
 

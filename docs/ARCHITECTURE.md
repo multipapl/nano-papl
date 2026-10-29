@@ -1,15 +1,15 @@
-# 🏗️ Nano Papl Architecture
+# 🏗️ nano-papl Architecture
 
 This document provides a high-level overview of the application's architecture.
 
 ## 1. Project Overview
 
-Nano Papl is built on a **Modular Component Architecture**. Every interface is composed of specialized widgets that communicate via signals.
+nano-papl is built on a **Modular Component Architecture**. Every interface is composed of specialized widgets that communicate via signals.
 
 ### Directory Structure
 
 ```text
-Nano_Papl/
+nano-papl/
 ├── main.py                     # Entry point (ModernWindow)
 ├── data/
 │   ├── templates.json          # Prompt templates & lighting definitions

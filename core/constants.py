@@ -2,7 +2,7 @@ import os
 from pathlib import Path
 
 # Application Metadata
-APP_NAME = "Nano Papl"
+APP_NAME = "nano-papl"
 APP_VERSION = "2.0.0"
 WINDOW_TITLE = f"{APP_NAME} v{APP_VERSION} | AI Archviz Automation"
 

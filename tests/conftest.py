@@ -17,7 +17,7 @@ def setup_test_env(tmp_path, monkeypatch):
     import keyring
     
     # 1. Create temp config files
-    test_config_dir = tmp_path / "nano_papl_tests"
+    test_config_dir = tmp_path / "nano-papl_tests"
     test_config_dir.mkdir(parents=True, exist_ok=True)
     test_config_file = test_config_dir / "config.json"
     test_presets_file = test_config_dir / "presets.json"

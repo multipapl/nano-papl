@@ -1,5 +1,5 @@
 """
-Global Error Manager for Nano Papl.
+Global Error Manager for nano-papl.
 Centralizes error handling, logging, and user notification.
 """
 from enum import Enum

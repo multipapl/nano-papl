@@ -1,5 +1,5 @@
 """
-Resource Manager for Nano Papl.
+Resource Manager for nano-papl.
 Centralizes all asset paths and resource loading with fallback support.
 """
 import sys

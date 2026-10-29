@@ -1,6 +1,6 @@
 # 🔮 Future Development Plan
 
-This document outlines planned architectural improvements for Nano Papl.
+This document outlines planned architectural improvements for nano-papl.
 
 > [!IMPORTANT]
 > **Document Rules:**

@@ -5,7 +5,7 @@ import shutil
 
 
 def main():
-    print("--- Nano Papl Builder ---")
+    print("--- nano-papl Builder ---")
     
     # Set CWD to project root (parent of scripts folder)
     script_dir = os.path.dirname(os.path.abspath(__file__))

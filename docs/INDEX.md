@@ -15,7 +15,7 @@ Use this file as a reference to access project documentation.
 ## Key Directories
 
 ```
-nano_papl/
+nano-papl/
 ├── core/           # Business logic, workers, services
 ├── ui/             # PySide6 + QFluentWidgets UI
 │   ├── pages/      # Main page components

@@ -1,6 +1,6 @@
-# Nano Papl | AI Archviz Automation
+# nano-papl | AI Archviz Automation
 
-Nano Papl is a specialized AI-powered tool designed to streamline Architectural Visualization workflows. It leverages the **Google Gemini 3 Pro** model to generate high-quality prompts and process image-to-image transformations.
+nano-papl is a specialized AI-powered tool designed to streamline Architectural Visualization workflows. It leverages the **Google Gemini 3 Pro** model to generate high-quality prompts and process image-to-image transformations.
 
 ## Key Features
 
